@@ -1,0 +1,2 @@
+class ProductInformationItem < ApplicationRecord
+end

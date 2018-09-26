@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  cpf: MyString
+  birthday: 2018-09-26
+  gener: MyString
+
+two:
+  name: MyString
+  cpf: MyString
+  birthday: 2018-09-26
+  gener: MyString
