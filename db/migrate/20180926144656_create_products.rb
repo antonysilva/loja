@@ -5,6 +5,7 @@ class CreateProducts < ActiveRecord::Migration[5.2]
       t.string :description
       t.float :unit_price
       t.integer :evaluation
+      t.string :picture
 
       t.timestamps
     end
